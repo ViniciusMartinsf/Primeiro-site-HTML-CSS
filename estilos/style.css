@@ -180,7 +180,7 @@ aside > p {
 }
 
 aside > ul {
-    padding-left: 10px;
+    padding-left: 5px;
     list-style-position: inside;
     columns: 2;
 }
