@@ -21,6 +21,18 @@
     margin-left: 15%;
 }
 
+.btn-link {
+    margin-top: 20px;
+    position: absolute;
+    left: 43%;
+    text-decoration: none;
+    background-color: #3A2BE2;
+    color: white;
+    padding: 10px 20px 10px 20px;
+    border-radius: 13px;
+    box-shadow: 1px 1px 5px black;
+}
+
 body {
     margin-left: 20px;
 }
