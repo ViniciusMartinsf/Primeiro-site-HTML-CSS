@@ -33,6 +33,10 @@
     box-shadow: 1px 1px 5px black;
 }
 
+.btn-link:hover {
+    box-shadow: 1px 1px 10px black;
+}
+
 body {
     margin-left: 20px;
 }
