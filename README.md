@@ -6,4 +6,5 @@ https://viniciusmartinsf.github.io/css-html/desafio12/
 
 profissionais:
 https://viniciusmartinsf.github.io/css-html/Viniciusmartins/index.html
-https://viniciusmartinsf.github.io/css-html/VianaMotos/teste.html
+https://viniciusmartinsf.github.io/css-html/VianaMotos/index.html
+https://viniciusmartinsf.github.io/css-html/barbershop/index.html
